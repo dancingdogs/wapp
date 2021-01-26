@@ -1,0 +1,10 @@
+14.12.2020, 14:26 - Mihai Radu: If no flow or little flow is present, then proceed with another air purging prcedure
+14.12.2020, 14:28 - Mihai Radu: make sure that in the end you have around 1.5 - 2 bar water pressure in the system.
+14.12.2020, 14:44 - +249 12 333 3082: Ket us first check if the HH actually valves are open or not... this may take some time. . Please wait.
+14.12.2020, 14:46 - Mihai Radu: Sure, take your time
+14.12.2020, 14:59 - +249 12 333 3082: Now we want to connect computer and monitors to the system...please send diagram
+14.12.2020, 15:02 - Doru Munteanu: You have the IT&C diagram
+14.12.2020, 15:02 - Doru Munteanu: something like this
+14.12.2020, 15:02 - Doru Munteanu: ?IMG-20201214-WA0027.jpg (fi?ier ata?at)
+14.12.2020, 15:04 - Doru Munteanu: Also you need to connect the Control Console in the Command Center
+14.12.2020, 15:08 - George Dima: ?IMG-20201214-WA0028.jpg (fi?ier ata?at)
